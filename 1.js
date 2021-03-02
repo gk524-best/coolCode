@@ -41,7 +41,7 @@ for(var i = 0; i < arr1.length; i++) {
    if (arr1[i].length >= max) {
      max = arr1[i].length;
    }
-}
+}2
 
 console.log('max loop', max);
 for (var i = 0; i < max; i++) {
